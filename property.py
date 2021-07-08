@@ -5,12 +5,12 @@ class TestProperty:
 
 	@property
 	def temp(self):
-		print("Getting...")
+		print("Getting value...")
 		return print(self._temp)
 
 	@temp.setter
 	def temp(self, value):
-		print("Setting...")
+		print("Setting value...")
 		self._temp = value
 
 	def main(self):
