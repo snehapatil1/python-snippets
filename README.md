@@ -5,3 +5,4 @@ Python snippets for future references.
 2. Property
 3. Callable
 4. Inheritance
+5. Exception
