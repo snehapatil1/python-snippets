@@ -6,3 +6,4 @@ Python snippets for future references.
 3. Callable
 4. Inheritance
 5. Exception
+6. Bubble Sort
